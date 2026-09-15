@@ -52,21 +52,30 @@
 
 ---
 
-### 💼 What I've built
+### 💼 Professional Experience
 
-| Project | Stack |
-|---|---|
-| **IoT Data Platform** — cross-platform IoT ingestion & transformation, exposed via Athena/QuickSight | Spark · S3 · Glue · Airflow · Athena |
-| **Data Quality Monitoring** — detects discrepancies between Azure Blob Storage and Redshift | Spark/EMR · Airflow · Azure Blob Storage · Redshift |
-| **Redshift Optimization** — query, data model & storage tuning (+40% perf, −25% cost) | Redshift · SQL |
-| **Credit Card Production Pipeline** — automated collection, cleaning & standardization of industrial data | Spark Scala · Airflow · Terraform · Jenkins · ECS |
-| **Real-time Ethereum Analytics** — streaming pipeline to analyze & visualize transactions | Kafka · Spark Streaming · Kubernetes · Elasticsearch · FastAPI |
+#### 🏢 Data Engineering Consultant — IDEMIA, Casablanca
+*August 2025 – Present · Full-time*
 
----
+- **IoT Data Platform:** Designed AWS/Spark pipelines for ingesting and transforming cross-platform IoT data, with S3 storage, Glue cataloging and Airflow orchestration. Data exposed via Athena and QuickSight.
+- **Data Quality Check:** Built a data quality monitoring solution comparing data from Azure Blob Storage and Redshift, using Spark/EMR processing and Airflow orchestration to identify and track discrepancies.
+- **Data Warehouse Performance Optimization:** Optimized Amazon Redshift SQL queries, data model and storage, achieving a **40% performance improvement** and a **25% cost reduction**.
 
-### 📊 GitHub stats
+`Python` `SQL` `Apache Spark` `AWS (S3, Lambda, Glue, EMR, Redshift, Athena, EC2)` `QuickSight` `Terraform`
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true" />
-</p>
+#### 🏢 Data Engineering Consultant Intern — IDEMIA, Casablanca
+*February – July 2025 · Internship*
+
+- Developed an automated cloud data pipeline for the collection, cleaning and standardization of credit card production data.
+- Orchestrated workflows with Airflow and processed data using Spark (Scala).
+- Transformed industrial data into operational metrics supporting performance management and customer relations.
+
+`Spark Scala` `Airflow` `Terraform` `Jenkins` `AWS (S3, ECS, EMR)`
+
+#### 🏢 Data Engineering Consultant Intern — FeverToken, Paris (Remote)
+*July – September 2024 · Internship*
+
+- Developed a real-time data pipeline to analyze and visualize Ethereum transactions.
+- Stream processing with Kafka and Spark, orchestration on Kubernetes, and storage and search via Elasticsearch.
+
+`Kafka` `Spark` `FastAPI` `Kubernetes` `Elasticsearch` `AWS`
